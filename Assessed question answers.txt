@@ -1,0 +1,22 @@
+Assessed question answers:
+
+1. Peru by Ed Sheeran, Fireboy DML with 261286503 streams
+2. 15.567 road fatalities in 2019 in Asia in 2019
+3. all five circles show evidence of running activity
+4. author id is 2649186466 (NEED TO CHECK THIS ONE IF THE OTHER ANSWER IS 2521783891)
+5. Answer 2 (women more years of schooling, stat significant)
+6. hard to answer - could need to sum up these values
+
+here is the number of missing values:
+Country or Area      0
+City               193
+Year_x             193
+Area               193
+Sex                193
+City type          193
+Record Type        193
+Reliability        193
+Source Year        193
+Value              193
+Year_y             307
+Life Expectancy    307
